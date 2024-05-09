@@ -2,7 +2,7 @@
 Quantitative methods in finance
 
 # Portfolio Management 
-Portfolio optimization and efficient frontier construction
+Portfolio optimization, efficient frontier construction and the capital market line
   
 # Time Series Analysis and Forecasting
 - Time series: components, stationarity, & autocorrelations
